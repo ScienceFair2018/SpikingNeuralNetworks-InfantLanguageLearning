@@ -79,4 +79,4 @@ If referencing this work, please use the following citation:
 For questions or collaboration inquiries, please contact:
 
 **Valentina Simon**  
-✉️ valentina.simon@example.com
+✉️ valentina.simon@yale.edu
