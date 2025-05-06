@@ -39,10 +39,11 @@ pip install numpy matplotlib brian2 scikit-learn pylangacq glob2 pandas plotly
 
 ```text
 .
-├── CompLingFINAL.ipynb        # Main notebook with code and experiments
-├── CompLingFINAL.html         # Exported HTML version of the notebook with outputs
-├── brent/                     # Folder containing Brent corpus files from CHILDES
-└── README.md                  # This file
+├── CompLingFINAL.ipynb                                           # Main notebook with code and experiments
+├── CompLingFINAL.html                                            # Exported HTML version of the notebook with outputs
+├── brent/                                                        # Folder containing Brent corpus files from CHILDES
+└── README.md                                                     # This file
+└── Computational_Psycholinguistics_Final_Project_Report.pdf      # Report
 ```
 
 ---
